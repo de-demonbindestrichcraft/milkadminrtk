@@ -1,0 +1,4 @@
+name:MilkAdminRTK
+main:com.sectorgamer.sharkiller.milkadminrtk.MilkAdminRTK
+version:1.9
+author:Sharkiller
